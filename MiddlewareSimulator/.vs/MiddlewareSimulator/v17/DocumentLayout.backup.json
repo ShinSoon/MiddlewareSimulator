@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F72B5784-07BC-479A-BE91-2FE8BE174641}|MiddlewareSimulator.vcxproj|C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\simulated_data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F72B5784-07BC-479A-BE91-2FE8BE174641}|MiddlewareSimulator.vcxproj|solutionrelative:simulated_data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72B5784-07BC-479A-BE91-2FE8BE174641}|MiddlewareSimulator.vcxproj|C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\Parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F72B5784-07BC-479A-BE91-2FE8BE174641}|MiddlewareSimulator.vcxproj|solutionrelative:Parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72B5784-07BC-479A-BE91-2FE8BE174641}|MiddlewareSimulator.vcxproj|C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F72B5784-07BC-479A-BE91-2FE8BE174641}|MiddlewareSimulator.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72B5784-07BC-479A-BE91-2FE8BE174641}|MiddlewareSimulator.vcxproj|C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\ProgramInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F72B5784-07BC-479A-BE91-2FE8BE174641}|MiddlewareSimulator.vcxproj|solutionrelative:ProgramInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72B5784-07BC-479A-BE91-2FE8BE174641}|MiddlewareSimulator.vcxproj|C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\Parser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F72B5784-07BC-479A-BE91-2FE8BE174641}|MiddlewareSimulator.vcxproj|solutionrelative:Parser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72B5784-07BC-479A-BE91-2FE8BE174641}|MiddlewareSimulator.vcxproj|C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\ChannelInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F72B5784-07BC-479A-BE91-2FE8BE174641}|MiddlewareSimulator.vcxproj|solutionrelative:ChannelInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "simulated_data.txt",
+              "DocumentMoniker": "C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\simulated_data.txt",
+              "RelativeDocumentMoniker": "simulated_data.txt",
+              "ToolTip": "C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\simulated_data.txt",
+              "RelativeToolTip": "simulated_data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-19T19:12:19.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parser.cpp",
+              "DocumentMoniker": "C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\Parser.cpp",
+              "RelativeDocumentMoniker": "Parser.cpp",
+              "ToolTip": "C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\Parser.cpp",
+              "RelativeToolTip": "Parser.cpp",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAgwMAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T19:07:20.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Parser.h",
+              "DocumentMoniker": "C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\Parser.h",
+              "RelativeDocumentMoniker": "Parser.h",
+              "ToolTip": "C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\Parser.h",
+              "RelativeToolTip": "Parser.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T19:07:04.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgramInfo.h",
+              "DocumentMoniker": "C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\ProgramInfo.h",
+              "RelativeDocumentMoniker": "ProgramInfo.h",
+              "ToolTip": "C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\ProgramInfo.h",
+              "RelativeToolTip": "ProgramInfo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T19:06:37.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChannelInfo.h",
+              "DocumentMoniker": "C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\ChannelInfo.h",
+              "RelativeDocumentMoniker": "ChannelInfo.h",
+              "ToolTip": "C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\ChannelInfo.h",
+              "RelativeToolTip": "ChannelInfo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T19:06:15.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAgwLcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T19:05:15.627Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
