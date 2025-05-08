@@ -1,4 +1,4 @@
-# C++ Middleware Simulator - 6-Week Learning Project
+# C++ Middleware Simulator
 
 ## Description / Purpose
 
@@ -89,7 +89,7 @@ This will create an executable named `MiddlewareSimulator` (or `MiddlewareSimula
 * **Concurrency:** All parsing and querying happens synchronously on the main thread.
 
 ---
-# C++ 中间件模拟器 - 6周学习项目
+# C++ 中间件模拟器 
 
 ## 描述 / 目的
 
