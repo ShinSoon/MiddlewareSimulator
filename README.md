@@ -2,7 +2,7 @@
 
 ## Description / Purpose
 
-This is a command-line C++ application developed over a 6-week learning plan, simulating basic functionalities of TV/Set-Top-Box middleware. It focuses on demonstrating core C++ skills (OOD, STL, File I/O, Build Systems) and understanding middleware concepts relevant to the broadcast industry (Service Information processing, EPG data handling). The goal was to create a functional simulator that can parse structured data representing channels and programs, mimicking how real middleware processes SI/PSI tables.
+This is a command-line C++ application developed simulating basic functionalities of TV/Set-Top-Box middleware. It focuses on demonstrating core C++ skills (OOD, STL, File I/O, Build Systems) and understanding middleware concepts relevant to the broadcast industry (Service Information processing, EPG data handling). The goal was to create a functional simulator that can parse structured data representing channels and programs, mimicking how real middleware processes SI/PSI tables.
 
 ## Features Implemented
 
@@ -93,7 +93,7 @@ This will create an executable named `MiddlewareSimulator` (or `MiddlewareSimula
 
 ## 描述 / 目的
 
-这是一个在为期6周的学习计划中开发的命令行 C++ 应用程序，模拟了电视/机顶盒中间件的基本功能。它专注于展示核心 C++ 技能（OOD、STL、文件 I/O、构建系统）以及对广播行业相关的中间件概念（服务信息处理、EPG 数据处理）的理解。目标是创建一个功能性模拟器，能够解析代表频道和节目的结构化数据，模仿真实中间件处理 SI/PSI 表的方式。
+这是一个应用程序模拟了电视/机顶盒中间件的基本功能。它专注于展示核心 C++ 技能（OOD、STL、文件 I/O、构建系统）以及对广播行业相关的中间件概念（服务信息处理、EPG 数据处理）的理解。目标是创建一个功能性模拟器，能够解析代表频道和节目的结构化数据，模仿真实中间件处理 SI/PSI 表的方式。
 
 ## 已实现功能
 

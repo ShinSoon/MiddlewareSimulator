@@ -63,7 +63,8 @@
               "RelativeToolTip": "Parser.cpp",
               "ViewState": "AgIAAJkAAAAAAAAAAAAgwMAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-19T19:07:20.222Z"
+              "WhenOpened": "2025-04-19T19:07:20.222Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -75,7 +76,8 @@
               "RelativeToolTip": "Parser.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-19T19:07:04.718Z"
+              "WhenOpened": "2025-04-19T19:07:04.718Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -87,7 +89,8 @@
               "RelativeToolTip": "ProgramInfo.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-19T19:06:37.544Z"
+              "WhenOpened": "2025-04-19T19:06:37.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -99,7 +102,8 @@
               "RelativeToolTip": "ChannelInfo.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-19T19:06:15.988Z"
+              "WhenOpened": "2025-04-19T19:06:15.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -109,9 +113,10 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\LeongShinSoon\\LeongShinSoonRealTekLearning\\MiddlewareSimulator\\MiddlewareSimulator\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAgwLcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAALcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-19T19:05:15.627Z"
+              "WhenOpened": "2025-04-19T19:05:15.627Z",
+              "EditorCaption": ""
             }
           ]
         }
