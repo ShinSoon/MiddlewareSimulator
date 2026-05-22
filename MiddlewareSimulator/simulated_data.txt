@@ -1,0 +1,23 @@
+# Example data file for MiddlewareSimulator
+# Format: TYPE|Field1|Field2|...
+# CH|ChannelID|ChannelName
+# PG|ChannelID|ProgramID|StartTime|EndTime|ProgramName|ProgramDescription
+# StartTime/EndTime Format: YYYY-MM-DD HH:MM:SS (UTC assumed by parser)
+
+CH|1|BBC One
+CH|2|ITV
+CH|3|Channel 4
+
+PG|1|101|2025-04-16 14:00:00|2025-04-16 15:30:00|Afternoon News|Latest headlines and updates
+PG|1|102|2025-04-16 15:30:00|2025-04-16 16:00:00|Weather Report|Detailed national forecast
+PG|1|103|2025-04-16 16:00:00|2025-04-16 17:00:00|Cooking Master|Chef creates a dessert
+
+PG|2|201|2025-04-16 15:00:00|2025-04-16 17:00:00|Classic Movie|A black and white drama
+CH|4|Dave
+
+# Some records with potential issues
+CH|invalid|Bad Channel ID Format
+PG|1|999|2025-04-16 10:00:00|2025-04-16 09:00:00|Bad Time|End before start
+PG|2|abc|2025-04-16 17:00:00|2025-04-16 18:00:00|Bad Prog ID|Invalid program ID format
+CH|5 # Missing Name
+PG|5|501|2025-04-16 18:00:00|2025-04-16 19:00:00|Orphaned Program|Channel 5 not defined above correctly
